@@ -1,0 +1,4 @@
+Sitemap: https://jhconning.github.io/Eco340/sitemapindex.xml
+
+User-Agent: *
+Host: jhconning.github.io
