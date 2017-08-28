@@ -1,7 +1,7 @@
 .. title: Calendar
 .. slug: calendar
 .. date: 2017-08-26 15:05:28 UTC-04:00
-.. tags: classinfo, deadline
+.. tags: classinfo, deadline, twitter
 .. category: 
 .. link: 
 .. description: 
@@ -16,4 +16,12 @@ Google calendar where I put details on class meeting times, exams and assignment
 .. raw:: html
 
     <iframe src="https://calendar.google.com/calendar/embed?title=Eco%20340%20Fall%202017%20Class%20Calendar&amp;height=500&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=classroom111970273020615236016%40group.calendar.google.com&amp;color=%235229A3&amp;ctz=America%2FNew_York" style="border-width:0" width="600" height="500" frameborder="0" scrolling="no"></iframe>
+
+
+Twitter
+==========
+
+.. raw:: html
+
+   <a class="twitter-timeline" href="https://twitter.com/HCtrades">Tweets by HCtrades</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
