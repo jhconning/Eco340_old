@@ -15,3 +15,9 @@
    - `Part I: Through Ricardo <https://docs.google.com/presentation/d/1OdIEQEIuW6WwHo8mO6LCW3F0MsQ2yfdJdReE6n0Cq2Y/edit?usp=sharing>`_
 - `Twitter Feed <https://twitter.com/HCtrades>`_
 
+
+.. raw:: html
+
+    <a class="twitter-timeline"
+        href="https://twitter.com/HCtrades">Tweets by HCtrades</a>
+        <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
