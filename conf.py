@@ -21,10 +21,10 @@ BLOG_AUTHOR = "Jonathan Conning"  # (translatable)
 BLOG_TITLE = "Eco340 Trade class"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://jhconning.github.io/Eco340/"
+SITE_URL = "https://eco340.netlify.com/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "https://jhconning.github.io/Eco340/"
+# BASE_URL = "https://eco340.netlify.com/"
 BLOG_EMAIL = "jonathan.conning@gmail.com"
 BLOG_DESCRIPTION = "Blog and materials for Econ 340: International Trade taught at Hunter College"  # (translatable)
 

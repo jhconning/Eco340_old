@@ -8,18 +8,14 @@
 .. type: text
 
 
-Economics 340 class calendar
---------------------------------
+Calendar
+=============
 
-Google calendar where I put details on class meeting times, exams and assignment due dates.
+A calendar and reading schedule is coming...
 
-.. raw:: html
-
-    <iframe src="https://calendar.google.com/calendar/embed?title=Eco%20340%20Fall%202017%20Class%20Calendar&amp;height=500&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=classroom111970273020615236016%40group.calendar.google.com&amp;color=%235229A3&amp;ctz=America%2FNew_York" style="border-width:0" width="600" height="500" frameborder="0" scrolling="no"></iframe>
-
-
-Twitter
-==========
+Twitter Feed
+===============
+Relevant news and analysis, including links to things I mention in class.
 
 .. raw:: html
 
