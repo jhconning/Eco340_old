@@ -13,7 +13,7 @@ Chapter readings and assignments.. Updated frequently.
 
 .. raw:: html
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTc8taWlBiMIYW386ouQQg3PJTArxxBlHZFWaC5FCfHv9GKbLBXHisFeF_dOduYUMmeVQLnn5P9lT1w/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+    <iframe width='40%' height='200' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTc8taWlBiMIYW386ouQQg3PJTArxxBlHZFWaC5FCfHv9GKbLBXHisFeF_dOduYUMmeVQLnn5P9lT1w/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 Twitter Feed
 ===============

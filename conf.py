@@ -135,6 +135,7 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/pages/materials", "Course Materials"),
+        ("/pages/calendar", "Calendar"),
         ("/pages/jupyter", "Jupyter"),
         ("/archive.html", "Archive"),
         ("/categories/", "Tags"),
