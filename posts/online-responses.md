@@ -19,14 +19,14 @@ participation questions, so keep it handy.
 Polls with an `(A)` in front are anonymous while those with an `(E)' require
 you to enter an EMPLID.
 
-Thursday Sept 14th
--------------------
+### Thursday Sept 14th
+
 When prompted please click on the appropriate form link and answer only then.
 
 1. (A) : [Opinion on Foreign Trade and future income](https://goo.gl/forms/6PEm7INySFOJpFwJ2)
  
 2. (E) : [Student Contact Form](https://goo.gl/forms/H8SZIMeewy8elBdW2)
 
-Monday Sept 25
+### Monday Sept 25
 
 3. (E) : [Foreign producivity growth and Home wages in Ricardian model](https://goo.gl/forms/wItPjqxVjJm1NAC63)
