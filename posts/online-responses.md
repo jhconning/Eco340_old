@@ -22,9 +22,9 @@ you to enter an EMPLID.
 
 When prompted please click on the appropriate form link and answer only then.
 
-### Tuesday Sept 19
+### Monday 10/2
 
-3. (E) : [Foreign producivity growth and Home wages in Ricardian model](https://goo.gl/forms/wItPjqxVjJm1NAC63)
+3. (E) : [Specific Factors Model quiz](https://goo.gl/forms/0uhOej7gpDosP6M02)
 
 ### Thursday Sept 14th (closed)
 
