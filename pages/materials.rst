@@ -11,8 +11,10 @@
 
 - `Syllabus <https://drive.google.com/open?id=0B_Z0VAlMmIEpRU9Zc2hDZV9NZjA>`_
 - Lecture slides
-   - `Part I: Through Ricardo <https://docs.google.com/presentation/d/1OdIEQEIuW6WwHo8mO6LCW3F0MsQ2yfdJdReE6n0Cq2Y/edit?usp=sharing>`_
+   - `Lecture Slides <https://docs.google.com/presentation/d/1OdIEQEIuW6WwHo8mO6LCW3F0MsQ2yfdJdReE6n0Cq2Y/edit?usp=sharing>`_
    - See Jupyter Tab above for additional handouts.
+- `Midterm Exam <https://drive.google.com/open?id=0B_Z0VAlMmIEpeV9uaFFBZTdJQTg>`_
+
 
 - `Twitter Feed <https://twitter.com/HCtrades>`_
 
