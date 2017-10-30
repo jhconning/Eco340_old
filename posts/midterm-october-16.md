@@ -11,6 +11,8 @@
 
 # (update) Midterm answers and grades
 
+The [actual midterm](https://drive.google.com/open?id=0B_Z0VAlMmIEpbUtPNjRTNEtMTFk)
+ 
 To see your midterm exam score and an indicative grade first go to the Blackboard
  site for our course, click on 'My Grades' on the left navigation bar and write down 
  the 'midterm_tot', 'mc', and 'ps' scores. Next look at the document [midterm grading explained](https://docs.google.com/document/d/1yz8Zt88NQl-mA0niBZ59OE4Z2pDJ7wbBM1ddc9DxjXA/edit?usp=sharing)
