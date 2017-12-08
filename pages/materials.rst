@@ -8,6 +8,7 @@
 .. type: text
 
 
+- `Notes on studying for final <https://docs.google.com/document/d/1-ORwQ5eytks4IAtNDPQwDBYKsYO6_H70m9Ai-niZf1o/edit?usp=sharing>`_
 
 - `Syllabus <https://drive.google.com/open?id=0B_Z0VAlMmIEpRU9Zc2hDZV9NZjA>`_
 - Lecture slides
