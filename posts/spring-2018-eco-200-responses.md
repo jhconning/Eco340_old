@@ -15,4 +15,5 @@ Welcome Spring 2018 Eco 200 students.  I will be using this site/post only
 as a place to share ocassional links to contact forms and online polls 
 (much easier than having you type in a complicated URL):
   
-  **3/23/18:** Please click to open and complete the contact form [here](https://goo.gl/forms/dq1HzvaHVzrlb3A53) 
+  **3/27/18:** Please complete the contact form [here](https://goo.gl/forms/dq1HzvaHVzrlb3A53)
+   Under Comments enter the word 'FIRMS'
